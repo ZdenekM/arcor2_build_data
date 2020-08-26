@@ -30,7 +30,8 @@ setup(
             'flake8-tidy-imports',
             'flake8-annotations-coverage',
             'flake8-pytest-style',
-            'flake8-bugbear'
+            'flake8-bugbear',
+            'flake8-requirements'
             ],
         'docs': ['sphinx']
     },
